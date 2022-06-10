@@ -1,1 +1,3 @@
 # Recto-Sofka
+
+Proyecto sofka
