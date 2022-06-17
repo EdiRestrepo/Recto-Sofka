@@ -164,7 +164,7 @@ while menu()=="1":
        
     #GEOGRAFIA
     if(totalAcumulado == 300):
-       print("Nivel 4, Categoria - DEPORTES")
+       print("Nivel 4, Categoria - GEOGRAFIA")
        iten = random.randint(0, 4)
        print(Preguntas.categoriaGeografia[iten])
        print(Opciones.opcionesGeografia[iten])
